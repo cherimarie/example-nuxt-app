@@ -3,7 +3,7 @@
     <div>
       <h1 class="title">
         Fantastic!
-      <h1>
+      </h1>
       </div>
     </div>
   </div>
